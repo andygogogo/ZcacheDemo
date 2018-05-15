@@ -139,7 +139,7 @@ dependencies {
 
     //demo自身用到的库
     //Weex module
-    compile("com.taobao.emas.weex:weex:1.0.1.5-ys-SNAPSHOT@aar") {
+    compile("com.taobao.emas.weex:weex:1.0.0.0-ze-SNAPSHOT@aar") {
         transitive true
         exclude group: 'com.alibaba.mtl', module: 'dynamicConfig'
         exclude group: 'com.alibaba.mtl', module: 'dynamicconfigadapter'
