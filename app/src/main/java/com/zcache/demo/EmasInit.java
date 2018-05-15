@@ -71,8 +71,8 @@ public class EmasInit {
     public static final int RELEASE = 2;  //发布环境
 
     /*配置信息*/
-    protected String mAppkey = "10000039";//"10000066";//"10000039";//"10000078";//"60039748";
-    protected String mAppSecret = "c7795717b2306055f21fb33418c1d011";//"1426c10c5ce57d6cb29e016a816421a7";//"c7795717b2306055f21fb33418c1d011";//"2e00a7e9ab2048daabd4977170d37c4a";//"ab5ff148782b467bb0b310c4acd70abd"//"fe240d4b8f4b31283863cc9d707e2cb1"
+    protected String mAppkey = "20000169";//"10000066";//"10000039";//"10000078";//"60039748";
+    protected String mAppSecret = "8f9e3d1588405719716e49cb65d6eb85";//"1426c10c5ce57d6cb29e016a816421a7";//"c7795717b2306055f21fb33418c1d011";//"2e00a7e9ab2048daabd4977170d37c4a";//"ab5ff148782b467bb0b310c4acd70abd"//"fe240d4b8f4b31283863cc9d707e2cb1"
     protected String mZcachePrefix = "http://mobilehubdev.taobao.com/eweex/";
     protected String mAccsHost = "acs.emas-ha.cn";
     protected Map<String, String> mIPStrategy;
